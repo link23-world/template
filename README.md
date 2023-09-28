@@ -12,7 +12,7 @@ This means you can adapt and redistribute all code and other content however you
 
 ## Contributing to this repository
 
-See [contribution guidelines](/CONTRIBUTING.md) for details about how you can contribute to this repository.
+See our [contribution guidelines](/CONTRIBUTING.md) for details about how you can contribute to this repository.
 
 ## Contributors
 
