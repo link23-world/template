@@ -1,4 +1,4 @@
-# [Repository Name]
+# [Tool Name]
 
 [![All Contributors](https://img.shields.io/github/all-contributors/link23-world/<REPOSITORY-NAME>?color=ee8449&style=flat-square)](#contributors)
 
