@@ -1,7 +1,7 @@
 ---
 name: Update contributors
 about: Use this template to add/edit contributor(s) to this repository.
-title: "Update {contributor_github_names}"
+title: "Update contributors: {contributor_github_names}"
 labels: update contributors
 assignees: ''
 
