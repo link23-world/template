@@ -26,3 +26,9 @@ See our [contribution guidelines](/CONTRIBUTING.md) for details about how we cre
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+**Other Contributors**
+
+The following people (who don't have GitHub accounts) also contributed:
+
+* 
