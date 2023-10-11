@@ -13,7 +13,7 @@ To add multiple contributors, copy/paste the template line "please add @{usernam
 ___
 
 @all-contributors
-please add @{username} for ally,bug,business,code,content,data,doc,design,eventOrganizing,ideas,maintenance,mentoring,projectManagement,question,research,review,security,tool,translation,talk.
+please add @{username} for ally,bug,business,code,content,data,doc,eventOrganizing,ideas,maintenance,mentoring,projectManagement,question,research,review,security,tool,translation,talk.
 
 ___
 
@@ -40,4 +40,3 @@ ___
 | 🔧 tool              | Tools                  | Creator of tools in the link23 toolbox.                                                                                                                                            |
 | 🌍 translation       | Translation            | Created translations for any content on the link23 website including tools in our toolbox. Or setup the crowdsourcing infrastructure with CrowdIn for tools (excluding developers) |
 | 📢 talk              | Talks                  | Gave a talk at a link23 event or representing link23 (e.g., at a conference). Or appeared in a link23 podcast.                                                                     |
-
